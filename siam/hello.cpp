@@ -4,8 +4,8 @@ using namespace std;
 
 int main() 
 {
-	int a =10;
-	cout << a << endl;
+	int a =10. b = 9;
+	cout << a << b << endl;
 	std::cout << "Hello world" << endl;
 	
 	cout << "Change1" << endl;
