@@ -4,10 +4,10 @@ using namespace std;
 
 int main() 
 {
-	int a =10;
+	int a =10. b = 9;
 	cout << "a = " << a << endl;
-	int b = 500;
 	std::cout << "b = " << b << endl;
+
 	std::cout << "Hello world" << endl;
 	
 	cout << "Change1" << endl;
